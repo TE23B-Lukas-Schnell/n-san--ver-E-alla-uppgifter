@@ -22,6 +22,7 @@ while (1 == 1)
     }
 }
 
+
 class Övningar
 {
     public int GetChoice(string värde1, string värde2, string värde3)
@@ -89,4 +90,3 @@ class Övningar
     }
 }
  
-
