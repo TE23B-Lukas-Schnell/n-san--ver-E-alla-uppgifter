@@ -1,0 +1,14 @@
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\bin\Debug\net8.0\näsan över E.exe
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\bin\Debug\net8.0\näsan över E.deps.json
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\bin\Debug\net8.0\näsan över E.runtimeconfig.json
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\bin\Debug\net8.0\näsan över E.dll
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\bin\Debug\net8.0\näsan över E.pdb
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\obj\Debug\net8.0\näsan över E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\obj\Debug\net8.0\näsan över E.AssemblyInfoInputs.cache
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\obj\Debug\net8.0\näsan över E.AssemblyInfo.cs
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\obj\Debug\net8.0\näsan över E.csproj.CoreCompileInputs.cache
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\obj\Debug\net8.0\näsan över E.dll
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\obj\Debug\net8.0\refint\näsan över E.dll
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\obj\Debug\net8.0\näsan över E.pdb
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\obj\Debug\net8.0\näsan över E.genruntimeconfig.cache
+C:\Users\lukas.schnell\Documents\programmering 1\näsan över E alla uppgifter\näsan över E\obj\Debug\net8.0\ref\näsan över E.dll
